@@ -1,6 +1,6 @@
 # Лабораторна робота 4
 ### Важливі файли
-[x] src/Function/List_2.js
-[x] src/App.js
+- [x] src/Function/List_2.js
+- [x] src/App.js
 > ІПЗк-22-1
 >> Пузійчук Василь

@@ -1,0 +1,15 @@
+body {
+  align-items: center;
+}
+.firstl {
+  margin: auto;
+  padding-top: 20px;
+  margin-top: 20px;
+  text-align: center;
+  width: 40%;
+  background-color: rgb(197, 223, 205);
+  height: 550px;
+}
+.back {
+  background-color: rgb(114, 151, 133);
+}

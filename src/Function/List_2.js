@@ -1,17 +1,33 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useReducer } from "react";
 import Button from "react-bootstrap/Button";
+import reducer from "./reducer";
 
-function Del() {
-  let [message, setMessage] = useState("");
-  const [messageList, setMessageList] = useState(
-    JSON.parse(localStorage.getItem("messageList")) || []
+export default function Del() {
+  const [state, dispatch] = useReducer(
+    reducer,
+    JSON.parse(localStorage.getItem("messageList"))
   );
+  // let [message, setMessage] = useState("");
+  // const [messageList, setMessageList] = useState(
+  //  JSON.parse(localStorage.getItem("messageList")) || []
+  //  );
   useEffect(() => {
-    localStorage.setItem("messageList", JSON.stringify(messageList));
-  }, [messageList]);
+    localStorage.setItem("messageList", JSON.stringify(state));
+  }, [state]);
   function handleRemoveItem(id) {
-    setMessageList(messageList.filter((obj) => obj.id !== id));
-  }
+   setMessageList(messageList.filter((obj) => obj.id !== id));
+  //}
+
+  const addTodo = (event) => {
+    if (event.key === "Enter") {
+      dispatch({
+        type: "add",
+        payload: todoTitle,
+      });
+      setTodoTitle("");
+    }
+  };
+
   return (
     <div className={"firstl"}>
       <h3>Лабораторна робота 4</h3>
@@ -27,13 +43,18 @@ function Del() {
         value="Add"
         onClick={(e) => {
           if (message == "") {
+            dispatch({
+              type: "add",
+              payload: todoTitle,
+            });
             message = "Пустий рядок";
           } else {
             setMessageList([
-              ...messageList,
+              ...state,
               {
                 id: messageList.length + 1,
                 message: message,
+                completed: false,
               },
             ]);
           }
@@ -43,7 +64,7 @@ function Del() {
         Зберегти
       </Button>
       <div>
-        {messageList.map((m) => (
+        {state.map((m) => (
           <p className={"paragraph"} key={m.id}>
             {m.message}{" "}
             <Button onClick={(event) => handleRemoveItem(m.id)}>
@@ -55,5 +76,3 @@ function Del() {
     </div>
   );
 }
-
-export default Del;

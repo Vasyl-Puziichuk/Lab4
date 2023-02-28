@@ -1,4 +1,4 @@
-{MIT
+{
   "@adobe/css-tools@4.0.1": {
     "licenses": "MIT",
     "repository": "https://github.com/adobe/css-tools",
@@ -1192,12 +1192,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@humanwhocodes\\object-schema",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@humanwhocodes\\object-schema\\LICENSE"
   },
-  "@istanbuljs/load-nyc-config@1.1.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/istanbuljs/load-nyc-config",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@istanbuljs\\load-nyc-config",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@istanbuljs\\load-nyc-config\\LICENSE"
-  },
   "@istanbuljs/schema@0.1.3": {
     "licenses": "MIT",
     "repository": "https://github.com/istanbuljs/schema",
@@ -1710,15 +1704,6 @@
     "email": "nathan@tootallnate.net",
     "url": "http://n8.io/",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@tootallnate\\once"
-  },
-  "@trysound/sax@0.2.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/svg/sax",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@trysound\\sax",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@trysound\\sax\\LICENSE"
   },
   "@types/aria-query@4.2.2": {
     "licenses": "MIT",
@@ -2385,14 +2370,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@types\\jest\\node_modules\\pretty-format\\node_modules\\ansi-styles",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@types\\jest\\node_modules\\pretty-format\\node_modules\\ansi-styles\\license"
   },
-  "anymatch@3.1.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/micromatch/anymatch",
-    "publisher": "Elan Shanker",
-    "url": "https://github.com/es128",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\anymatch",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\anymatch\\LICENSE"
-  },
   "arg@5.0.2": {
     "licenses": "MIT",
     "repository": "https://github.com/vercel/arg",
@@ -2497,13 +2474,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\asap",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\asap\\LICENSE.md"
   },
-  "ast-types-flow@0.0.7": {
-    "licenses": "ISC",
-    "repository": "https://github.com/kyldvs/ast-types-flow",
-    "publisher": "kyldvs",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\ast-types-flow",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\ast-types-flow\\README.md"
-  },
   "async@3.2.4": {
     "licenses": "MIT",
     "repository": "https://github.com/caolan/async",
@@ -2518,14 +2488,6 @@
     "email": "iam@alexindigo.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\asynckit",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\asynckit\\LICENSE"
-  },
-  "at-least-node@1.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/RyanZim/at-least-node",
-    "publisher": "Ryan Zimmerman",
-    "email": "opensrc@ryanzim.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\at-least-node",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\at-least-node\\LICENSE"
   },
   "autoprefixer@10.4.12": {
     "licenses": "MIT",
@@ -2709,14 +2671,6 @@
     "url": "https://labs.onlx.ltd",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\bonjour-service",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\bonjour-service\\LICENSE"
-  },
-  "boolbase@1.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/fb55/boolbase",
-    "publisher": "Felix Boehm",
-    "email": "me@feedic.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\boolbase",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\boolbase\\README.md"
   },
   "bootstrap@5.2.1": {
     "licenses": "MIT",
@@ -2973,14 +2927,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\clean-css",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\clean-css\\LICENSE"
   },
-  "cliui@7.0.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/yargs/cliui",
-    "publisher": "Ben Coe",
-    "email": "ben@npmjs.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\cliui",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\cliui\\LICENSE.txt"
-  },
   "clsx@1.2.1": {
     "licenses": "MIT",
     "repository": "https://github.com/lukeed/clsx",
@@ -3090,14 +3036,6 @@
     "email": "tj@vision-media.ca",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\commander",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\commander\\LICENSE"
-  },
-  "common-path-prefix@3.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/novemberborn/common-path-prefix",
-    "publisher": "Mark Wubben",
-    "url": "https://novemberborn.net/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\common-path-prefix",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\common-path-prefix\\LICENSE"
   },
   "common-tags@1.8.2": {
     "licenses": "MIT",
@@ -3259,15 +3197,6 @@
     "email": "jonathantneal@hotmail.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\css-blank-pseudo",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\css-blank-pseudo\\LICENSE.md"
-  },
-  "css-declaration-sorter@6.3.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/Siilwyn/css-declaration-sorter",
-    "publisher": "Selwyn",
-    "email": "talk@selwyn.cc",
-    "url": "https://selwyn.cc/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\css-declaration-sorter",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\css-declaration-sorter\\license.md"
   },
   "css-has-pseudo@3.0.4": {
     "licenses": "CC0-1.0",
@@ -3825,13 +3754,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\ejs",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\ejs\\LICENSE"
   },
-  "electron-to-chromium@1.4.268": {
-    "licenses": "ISC",
-    "repository": "https://github.com/kilian/electron-to-chromium",
-    "publisher": "Kilian Valkhof",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\electron-to-chromium",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\electron-to-chromium\\LICENSE"
-  },
   "emittery@0.10.2": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/emittery",
@@ -4272,14 +4194,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fast-levenshtein",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fast-levenshtein\\LICENSE.md"
   },
-  "fastq@1.13.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/mcollina/fastq",
-    "publisher": "Matteo Collina",
-    "email": "hello@matteocollina.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fastq",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fastq\\LICENSE"
-  },
   "faye-websocket@0.11.4": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/faye/faye-websocket-node",
@@ -4394,13 +4308,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\flat-cache",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\flat-cache\\LICENSE"
   },
-  "flatted@3.2.7": {
-    "licenses": "ISC",
-    "repository": "https://github.com/WebReflection/flatted",
-    "publisher": "Andrea Giammarchi",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\flatted",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\flatted\\LICENSE"
-  },
   "follow-redirects@1.15.2": {
     "licenses": "MIT",
     "repository": "https://github.com/follow-redirects/follow-redirects",
@@ -4473,15 +4380,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fs-monkey",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fs-monkey\\LICENSE"
   },
-  "fs.realpath@1.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/fs.realpath",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fs.realpath",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fs.realpath\\LICENSE"
-  },
   "function-bind@1.1.1": {
     "licenses": "MIT",
     "repository": "https://github.com/Raynos/function-bind",
@@ -4514,13 +4412,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\gensync",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\gensync\\LICENSE"
   },
-  "get-caller-file@2.0.5": {
-    "licenses": "ISC",
-    "repository": "https://github.com/stefanpenner/get-caller-file",
-    "publisher": "Stefan Penner",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-caller-file",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-caller-file\\LICENSE.md"
-  },
   "get-intrinsic@1.1.3": {
     "licenses": "MIT",
     "repository": "https://github.com/ljharb/get-intrinsic",
@@ -4528,15 +4419,6 @@
     "email": "ljharb@gmail.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-intrinsic",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-intrinsic\\LICENSE"
-  },
-  "get-own-enumerable-property-symbols@3.0.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/mightyiam/get-own-enumerable-property-symbols",
-    "publisher": "Shahar Or",
-    "email": "mightyiampresence@gmail.com",
-    "url": "mightyiam",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-own-enumerable-property-symbols",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-own-enumerable-property-symbols\\LICENSE"
   },
   "get-package-type@0.1.0": {
     "licenses": "MIT",
@@ -4562,24 +4444,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-symbol-description",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\get-symbol-description\\LICENSE"
   },
-  "glob-parent@5.1.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/gulpjs/glob-parent",
-    "publisher": "Gulp Team",
-    "email": "team@gulpjs.com",
-    "url": "https://gulpjs.com/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fast-glob\\node_modules\\glob-parent",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\fast-glob\\node_modules\\glob-parent\\LICENSE"
-  },
-  "glob-parent@6.0.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/gulpjs/glob-parent",
-    "publisher": "Gulp Team",
-    "email": "team@gulpjs.com",
-    "url": "https://gulpjs.com/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\glob-parent",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\glob-parent\\LICENSE"
-  },
   "glob-to-regexp@0.4.1": {
     "licenses": "BSD-2-Clause",
     "repository": "https://github.com/fitzgen/glob-to-regexp",
@@ -4587,15 +4451,6 @@
     "email": "fitzgen@gmail.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\glob-to-regexp",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\glob-to-regexp\\README.md"
-  },
-  "glob@7.2.3": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/node-glob",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\glob",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\glob\\LICENSE"
   },
   "global-modules@2.0.0": {
     "licenses": "MIT",
@@ -4639,12 +4494,6 @@
     "url": "https://sindresorhus.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\globby",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\globby\\license"
-  },
-  "graceful-fs@4.2.10": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/node-graceful-fs",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\graceful-fs",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\graceful-fs\\LICENSE"
   },
   "grapheme-splitter@1.0.4": {
     "licenses": "MIT",
@@ -4909,20 +4758,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\iconv-lite",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\iconv-lite\\LICENSE"
   },
-  "icss-utils@5.1.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/css-modules/icss-utils",
-    "publisher": "Glen Maddern",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\icss-utils",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\icss-utils\\LICENSE.md"
-  },
-  "idb@7.1.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/jakearchibald/idb",
-    "publisher": "Jake Archibald",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\idb",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\idb\\LICENSE"
-  },
   "identity-obj-proxy@3.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/keyanzhang/identity-obj-proxy",
@@ -4981,36 +4816,6 @@
     "url": "sindresorhus.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\indent-string",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\indent-string\\license"
-  },
-  "inflight@1.0.6": {
-    "licenses": "ISC",
-    "repository": "https://github.com/npm/inflight",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\inflight",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\inflight\\LICENSE"
-  },
-  "inherits@2.0.3": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/inherits",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\serve-index\\node_modules\\inherits",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\serve-index\\node_modules\\inherits\\LICENSE"
-  },
-  "inherits@2.0.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/inherits",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\inherits",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\inherits\\LICENSE"
-  },
-  "ini@1.3.8": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/ini",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\ini",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\ini\\LICENSE"
   },
   "internal-slot@1.0.3": {
     "licenses": "MIT",
@@ -5297,15 +5102,6 @@
     "url": "http://juliangruber.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\isarray",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\isarray\\README.md"
-  },
-  "isexe@2.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/isexe",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\isexe",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\isexe\\LICENSE"
   },
   "istanbul-lib-coverage@3.2.0": {
     "licenses": "BSD-3-Clause",
@@ -5934,14 +5730,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\lower-case",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\lower-case\\LICENSE"
   },
-  "lru-cache@6.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/node-lru-cache",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\lru-cache",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\lru-cache\\LICENSE"
-  },
   "lz-string@1.4.4": {
     "licenses": "WTFPL",
     "repository": "https://github.com/pieroxy/lz-string",
@@ -6084,39 +5872,6 @@
     "publisher": "Tobias Koppers @sokra",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\mini-css-extract-plugin",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\mini-css-extract-plugin\\LICENSE"
-  },
-  "minimalistic-assert@1.0.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/calvinmetcalf/minimalistic-assert",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\minimalistic-assert",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\minimalistic-assert\\LICENSE"
-  },
-  "minimatch@3.0.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/minimatch",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\recursive-readdir\\node_modules\\minimatch",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\recursive-readdir\\node_modules\\minimatch\\LICENSE"
-  },
-  "minimatch@3.1.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/minimatch",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\minimatch",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\minimatch\\LICENSE"
-  },
-  "minimatch@5.1.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/minimatch",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\filelist\\node_modules\\minimatch",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\filelist\\node_modules\\minimatch\\LICENSE"
   },
   "minimist@1.2.6": {
     "licenses": "MIT",
@@ -6387,15 +6142,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\on-headers",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\on-headers\\LICENSE"
   },
-  "once@1.4.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/once",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\once",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\once\\LICENSE"
-  },
   "onetime@5.1.2": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/onetime",
@@ -6610,20 +6356,6 @@
     "email": "braveg1rl@outlook.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\performance-now",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\performance-now\\license.txt"
-  },
-  "picocolors@0.2.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/alexeyraspopov/picocolors",
-    "publisher": "Alexey Raspopov",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\resolve-url-loader\\node_modules\\picocolors",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\resolve-url-loader\\node_modules\\picocolors\\LICENSE"
-  },
-  "picocolors@1.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/alexeyraspopov/picocolors",
-    "publisher": "Alexey Raspopov",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\picocolors",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\picocolors\\LICENSE"
   },
   "picomatch@2.3.1": {
     "licenses": "MIT",
@@ -6976,33 +6708,12 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-minify-selectors",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-minify-selectors\\LICENSE-MIT"
   },
-  "postcss-modules-extract-imports@3.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/css-modules/postcss-modules-extract-imports",
-    "publisher": "Glen Maddern",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-extract-imports",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-extract-imports\\LICENSE"
-  },
   "postcss-modules-local-by-default@4.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/css-modules/postcss-modules-local-by-default",
     "publisher": "Mark Dalgleish",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-local-by-default",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-local-by-default\\LICENSE"
-  },
-  "postcss-modules-scope@3.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/css-modules/postcss-modules-scope",
-    "publisher": "Glen Maddern",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-scope",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-scope\\LICENSE"
-  },
-  "postcss-modules-values@4.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/css-modules/postcss-modules-values",
-    "publisher": "Glen Maddern",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-values",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\postcss-modules-values\\LICENSE"
   },
   "postcss-nested@5.0.6": {
     "licenses": "MIT",
@@ -7764,15 +7475,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\reusify",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\reusify\\LICENSE"
   },
-  "rimraf@3.0.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/rimraf",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\rimraf",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\rimraf\\LICENSE"
-  },
   "rollup-plugin-terser@7.0.2": {
     "licenses": "MIT",
     "repository": "https://github.com/TrySound/rollup-plugin-terser",
@@ -7847,23 +7549,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\sass-loader",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\sass-loader\\LICENSE"
   },
-  "sax@1.2.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/sax-js",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\sax",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\sax\\LICENSE"
-  },
-  "saxes@5.0.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/lddubeau/saxes",
-    "publisher": "Louis-Dominique Dubeau",
-    "email": "ldd@lddubeau.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\saxes",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\saxes\\README.md"
-  },
   "scheduler@0.23.0": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react",
@@ -7919,19 +7604,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\selfsigned",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\selfsigned\\LICENSE"
   },
-  "semver@6.3.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/npm/node-semver",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@babel\\helper-compilation-targets\\node_modules\\semver",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\@babel\\helper-compilation-targets\\node_modules\\semver\\LICENSE"
-  },
-  "semver@7.3.7": {
-    "licenses": "ISC",
-    "repository": "https://github.com/npm/node-semver",
-    "publisher": "GitHub Inc.",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\semver",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\semver\\LICENSE"
-  },
   "send@0.18.0": {
     "licenses": "MIT",
     "repository": "https://github.com/pillarjs/send",
@@ -7972,20 +7644,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\serve-static",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\serve-static\\LICENSE"
   },
-  "setprototypeof@1.1.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/wesleytodd/setprototypeof",
-    "publisher": "Wes Todd",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\serve-index\\node_modules\\setprototypeof",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\serve-index\\node_modules\\setprototypeof\\LICENSE"
-  },
-  "setprototypeof@1.2.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/wesleytodd/setprototypeof",
-    "publisher": "Wes Todd",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\setprototypeof",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\setprototypeof\\LICENSE"
-  },
   "shebang-command@2.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/kevva/shebang-command",
@@ -8020,14 +7678,6 @@
     "email": "ljharb@gmail.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\side-channel",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\side-channel\\LICENSE"
-  },
-  "signal-exit@3.0.7": {
-    "licenses": "ISC",
-    "repository": "https://github.com/tapjs/signal-exit",
-    "publisher": "Ben Coe",
-    "email": "ben@npmjs.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\signal-exit",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\signal-exit\\LICENSE.txt"
   },
   "sisteransi@1.0.5": {
     "licenses": "MIT",
@@ -8505,14 +8155,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\terser",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\terser\\LICENSE"
   },
-  "test-exclude@6.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/istanbuljs/test-exclude",
-    "publisher": "Ben Coe",
-    "email": "ben@npmjs.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\test-exclude",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\test-exclude\\LICENSE.txt"
-  },
   "text-table@0.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/substack/text-table",
@@ -8870,14 +8512,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\uuid",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\uuid\\LICENSE.md"
   },
-  "v8-to-istanbul@8.1.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/istanbuljs/v8-to-istanbul",
-    "publisher": "Ben Coe",
-    "email": "ben@npmjs.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\v8-to-istanbul",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\v8-to-istanbul\\LICENSE.txt"
-  },
   "vary@1.1.2": {
     "licenses": "MIT",
     "repository": "https://github.com/jshttp/vary",
@@ -9084,24 +8718,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\which-boxed-primitive",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\which-boxed-primitive\\LICENSE"
   },
-  "which@1.3.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/node-which",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\global-prefix\\node_modules\\which",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\global-prefix\\node_modules\\which\\LICENSE"
-  },
-  "which@2.0.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/node-which",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\which",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\which\\LICENSE"
-  },
   "word-wrap@1.2.3": {
     "licenses": "MIT",
     "repository": "https://github.com/jonschlinkert/word-wrap",
@@ -9238,24 +8854,6 @@
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\wrap-ansi",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\wrap-ansi\\license"
   },
-  "wrappy@1.0.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/npm/wrappy",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\wrappy",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\wrappy\\LICENSE"
-  },
-  "write-file-atomic@3.0.3": {
-    "licenses": "ISC",
-    "repository": "https://github.com/npm/write-file-atomic",
-    "publisher": "Rebecca Turner",
-    "email": "me@re-becca.org",
-    "url": "http://re-becca.org",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\write-file-atomic",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\write-file-atomic\\LICENSE"
-  },
   "ws@7.5.9": {
     "licenses": "MIT",
     "repository": "https://github.com/websockets/ws",
@@ -9298,39 +8896,6 @@
     "email": "raynos2@gmail.com",
     "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\xtend",
     "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\xtend\\LICENSE"
-  },
-  "y18n@5.0.8": {
-    "licenses": "ISC",
-    "repository": "https://github.com/yargs/y18n",
-    "publisher": "Ben Coe",
-    "email": "bencoe@gmail.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\y18n",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\y18n\\LICENSE"
-  },
-  "yallist@4.0.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/yallist",
-    "publisher": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\yallist",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\yallist\\LICENSE"
-  },
-  "yaml@1.10.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/eemeli/yaml",
-    "publisher": "Eemeli Aro",
-    "email": "eemeli@gmail.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\yaml",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\yaml\\LICENSE"
-  },
-  "yargs-parser@20.2.9": {
-    "licenses": "ISC",
-    "repository": "https://github.com/yargs/yargs-parser",
-    "publisher": "Ben Coe",
-    "email": "ben@npmjs.com",
-    "path": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\yargs-parser",
-    "licenseFile": "C:\\Users\\user\\Desktop\\Політех(роботи)\\Перший семестр\\React\\untitled1 — копия\\Lab4\\node_modules\\yargs-parser\\LICENSE.txt"
   },
   "yargs@16.2.0": {
     "licenses": "MIT",
